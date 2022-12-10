@@ -2,8 +2,8 @@
 
 div {
     background-color: red;
-    font-color: white;
+    color: white;
     font-size: 32px;
-    font-align: center;
+    text-align: center;
     font-weight: 700;
 }
